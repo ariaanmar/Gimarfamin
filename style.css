@@ -19,9 +19,11 @@ ul { List_style_type : none ;
 padding : 16 px ;
 }
 
-Li { display : inline ; 
+li { display : inline ; 
 padding - left : 4 px solid gray ;
 padding - right : 4 pcx solid gray : 
 }
-img{width=25 px ;
-   }
+
+  img {
+  width = 25px;
+}
